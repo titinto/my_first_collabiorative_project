@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 something very intersting today
+=======
+something
+
+conclusion
+>>>>>>> origin/conclusions
