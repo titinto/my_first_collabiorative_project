@@ -2,6 +2,10 @@
 something very intersting today
 =======
 something
+<<<<<<< HEAD
 
 conclusion
 >>>>>>> origin/conclusions
+=======
+edit again
+>>>>>>> origin/a_modification
